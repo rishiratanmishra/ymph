@@ -1,0 +1,71 @@
+.contact {
+    width: 100%;
+    display: flex;
+    padding: 40px;
+}
+
+.left-contact {
+    width: 40%;
+}
+
+.left-contact h3 {
+    margin-top: 15vh;
+    font-size: 35px;
+}
+.icons{
+    margin-top: 2rem;
+}
+.whatsapp {
+    color: green;
+}
+
+.left-contact h2 {
+    margin: 4rem;
+    font-size: 70px;
+    color: #04423E;
+}
+
+.middle-contact {
+    width: 40%;
+    padding: 100px;
+}
+
+.contact-form {
+    display: flex;
+    flex-direction: column;
+}
+
+.boxing {
+    margin-top: 6px;
+    margin-bottom: 6px;
+    padding: 10px;
+    width: auto;
+    height: auto;
+    border: 1px solid grey;
+    border-radius: 10px;
+
+}
+
+.message {
+    margin-top: 6px;
+    margin-bottom: 6px;
+    padding: 10px;
+    width: auto;
+    height: auto;
+    border: 1px solid grey;
+    border-radius: 10px;
+    width: auto;
+    height: auto;
+    overflow: scroll;
+    overflow-x: hidden;
+}
+
+.right-contact {
+    width: 20%;
+}
+
+.right-contact img {
+    width: 250px;
+    margin-top: 7rem;
+
+}

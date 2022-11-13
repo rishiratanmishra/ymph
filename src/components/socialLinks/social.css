@@ -1,0 +1,27 @@
+.social-icons{
+    width: 70%;
+    margin: 1rem;
+    display: flex;
+    justify-content: center;
+
+}
+
+.icons{
+    color: #203152;
+    /* color: rgb(30, 0, 255); */
+    margin-left: 10px;
+    border: 2px solid rgb(172, 172, 172);
+    border-radius: 150px 150px;
+    box-shadow: 5px 3px grey;
+    background-color: none;
+    padding: 10px;
+}
+
+
+.icons:hover{
+    color: #fbf8fc;
+    background-color: purple;
+    border: 1px solid white;
+    transform: scale();
+    box-shadow: none;
+}

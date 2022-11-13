@@ -1,0 +1,49 @@
+.main-register{
+    width:100%;
+    
+    }
+    .register{
+        width: 50%;
+    }
+    
+    .form-user-registration label {
+        font-size: 25px;
+        color: rgb(51, 58, 56);
+    }
+    
+    .user-registration-right-side{
+        width: 50%;
+        height: auto;
+        padding: 30px;
+         
+    }
+    .form-user-registration{
+        display: flex;
+        flex-direction: column;
+        padding: 50px;
+        background-color: rgb(252, 254, 255);
+       border-radius: 20px 20px 15px 55px;
+       box-shadow: 5px 5px rgb(173, 175, 176);
+    }
+    .register-button{
+        margin-top: 1rem;
+        margin-bottom: 12px;
+    }
+    
+    .box{
+    padding: 10px;
+    width: auto;
+    height: auto;  
+    border: 1px solid grey;  
+    border-radius: 10px;
+    
+    }
+    
+    .loginto{
+        color: rgb(17, 0, 255);
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+    .loginto:hover{
+        cursor: pointer;
+        color: green;
+    }

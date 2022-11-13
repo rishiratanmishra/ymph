@@ -1,0 +1,62 @@
+.navbar{
+    width: 100%;
+    position: sticky;
+    overflow: hidden;
+    top: 0;
+    background-color: white;
+    height: auto;
+    display: flex;
+    box-sizing: border-box;
+    box-shadow: 1px 1px rgba(49, 5, 153, 0.66);
+}
+.navbar-left-side{
+width:30%;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+.navbar-left-side img {
+   width:auto;
+   height: 4rem;
+}
+
+.navbar-left-side h1{
+   font-size: 20px;
+   justify-content: center;
+   align-items: center;
+}
+
+.navbar-middle-side{
+display: flex;
+align-items: center;
+justify-content: left;
+width:40%;
+}
+
+.navbar-middle-side .link{
+   list-style: none;
+   font-family: 'Playfair Display', serif;
+   text-decoration: none;
+   margin-left: 2rem;
+   font-weight: bold;
+}
+
+
+.login{
+   width: 30%;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+
+}
+.login .link{
+   text-decoration: none;
+}
+
+.login button{
+   font-weight: bold;
+   margin-left: 1rem;
+
+   
+}

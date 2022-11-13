@@ -1,0 +1,25 @@
+.main-login{
+    width:100%;
+    }
+
+    .left-login{
+        width: 50%;
+    }
+    .right-login{
+        width: 50%;
+    }
+
+    .forget-password{
+        margin-top: 8px;
+        text-decoration: none;
+    }
+
+   .new-account{
+    margin-top: 1rem;
+    width: 100%;
+    color: aliceblue;
+    background-color: #04423e;
+}
+    .create-new-account{
+       width: auto;
+    }

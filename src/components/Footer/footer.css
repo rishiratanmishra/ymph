@@ -1,0 +1,56 @@
+.publishing-book{
+    width: 100%;
+    display: flex;
+    padding-left: 90px;
+    padding-right: 90px;
+    height: 10vh;
+    margin-bottom: -3rem;
+
+}
+.left-publishing-book{
+width: 50%;
+text-align: center;
+font-size: 25px;
+background-color: rgb(254, 251, 251);
+}
+.right-publishing-book{
+width: 50%;
+background-color: rgb(254, 254, 255);
+}
+
+.publishing-button{
+    align-items: center;
+    width: 125px;
+    margin-left: 15rem;
+}
+
+
+
+.footer{
+    width: 100%;
+    height: auto;
+    background-color: purple;
+    padding: 5%;
+}
+
+.footer-horizontal{
+    width: auto;
+    display: flex;
+}
+
+.footer-horizontal-1{
+    margin-right:2rem;
+}
+
+.footer-text-horizontal-2{
+    padding:10px;
+    font-size: 20px;
+    text-align: justify;
+    color: rgb(255, 255, 255);
+}
+.footer-copyright{
+    color: white;
+    margin-top: 1rem;
+    margin-bottom: -2rem;
+    text-align: center;
+}

@@ -1,0 +1,75 @@
+.hero-section{
+    width: 100%;
+    padding: 30px;
+    display: flex;
+    }
+    
+    .left-hero-section{
+    width:50%;
+    
+    }
+    .left-hero-section-content h4{
+        margin-top: 5vh;
+        font-size: 20px;
+    }
+    
+    .left-hero-section-content h2{
+    font-size: 100px;
+    font-weight: normal;
+    color: #203152;
+    text-transform: uppercase;
+    text-shadow:2px 2px rgb(173, 167, 167);
+    }
+    
+    
+    
+    .hero-section-buttons{
+        margin: 2rem;
+    }
+    
+    .right-hero-section{
+        width: 50%;
+        display:block;
+        margin-left: 3rem;
+        }
+        .slider{
+            margin-top: 3rem;
+           background-size: cover;
+        width: 600px;
+           height: 400px;          
+                       }
+        
+.hero-event-image{
+    width: 600px;
+    border-radius: 10px 10px;
+    box-shadow: 8px 4px rgba(188, 185, 185, 0.71);
+
+    
+}
+
+
+        /* @keyframes slide{
+            50%{
+                background: url(./../../../images/ymph-hero-2.jpg);
+                background-size:cover ;
+            }
+        
+            60%{
+                background: url(./../../../images/ymph-hero-3.jpg);
+                background-size:cover ;
+            } 
+            
+            75%{
+                background: url(./../../../images/ymph-hero-4.jpg);
+                background-size:cover ;
+            } 
+            
+            100%{
+                background: url(./../../../images/ymph-hero-5.jpg);
+                background-size:cover ;
+            } 
+        
+        
+        
+        }
+         */
